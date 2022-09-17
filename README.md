@@ -1,4 +1,4 @@
-![image](./WMV.gif)
+<img src="./WMV.gif" data-canonical-src="./WMV.GIF" width="100%" height="400%"/>
 <!--
 **crmcleod/crmcleod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
