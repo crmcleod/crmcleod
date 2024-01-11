@@ -1,5 +1,18 @@
-<img src="./WMV.gif" data-canonical-src="./WMV.GIF" width="100%" height="400%"/>
-<!--
+<img align='left' style='align-self: top; text-align: center' src="./waves.gif" data-canonical-src="./waves.GIF" width="30%" height="400%"/>&nbsp;&nbsp; 
+**ODYSSEY** 
+
+&nbsp;&nbsp;  🌑 A dark text adventure
+
+&nbsp;&nbsp;  🌑 Built with a simple React front-end fed by a json script
+
+&nbsp;&nbsp;  🌑 Script updates: 
+  &nbsp;&nbsp; 10/01/2024
+
+<br>
+  
+ &nbsp;&nbsp; <a href="https://craggl.io"><img src="https://fontmeme.com/permalink/240111/f45262581f21279817d10f126ed68d31.png" alt="pixel-fonts" border="0"></a>
+
+  <!--
 **crmcleod/crmcleod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
