@@ -3,9 +3,7 @@
 <img align='left' style='align-self: top; text-align: center' src="./waves.gif" data-canonical-src="./waves.GIF" width="30%" height="400%"/>&nbsp;&nbsp; 
 **ODYSSEY** 
 
-&nbsp;&nbsp;  🌑 A dark text adventure
-
-&nbsp;&nbsp;  🌑 Built with a simple React front-end fed by a json script
+&nbsp;&nbsp;  🌑 A dark text adventure built with a simple React front-end, fed by a json script
 
 &nbsp;&nbsp;  🌑 Script updates: 
   &nbsp;&nbsp; 10/01/2024
