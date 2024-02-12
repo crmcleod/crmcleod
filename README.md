@@ -40,3 +40,7 @@
 
  &nbsp;&nbsp; <a href="https://rockredugly.com"><img width="43%" src="https://fontmeme.com/permalink/240114/9dfb864c8712a01b5f582a9bc8beee30.png" alt="pixel-fonts" border="0"></a>
  # In progress teasers
+
+<img align='left' style='align-self: top; text-align: center' src="./Screenshot 2024-01-28 at 21.52.14.png" data-canonical-src="./Screenshot 2024-01-28 at 21.52.14.png" width="30%" height="400%"/>
+<img align='left' style='align-self: top; text-align: center' src="./Screenshot 2024-02-12 at 11.59.45.png" data-canonical-src="./Screenshot 2024-02-12 at 11.59.45.png" width="30%" height="400%"/>
+<img align='left' style='align-self: top; text-align: center' src="./Screenshot 2024-02-12 at 13.22.53.png" data-canonical-src="./Screenshot 2024-02-12 at 11.59.45.png" width="30%" height="400%"/>
