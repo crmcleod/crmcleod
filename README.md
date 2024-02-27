@@ -1,5 +1,16 @@
 <h1>Current</h1>
 
+<img align='left' style='align-self: top; text-align: center' src="./446733257015201.gif" data-canonical-src="./446733257015201.gif" width="30%" height="400%"/>&nbsp;&nbsp; 
+**BURIED** 
+
+&nbsp;&nbsp;  🌑 A dark text adventure set in a mine, built with a simple React front-end, fed by a json script
+  
+&nbsp;&nbsp;  🌑 <a href="https://github.com/crmcleod/cragglio">Github Repo</a> 
+
+ &nbsp;&nbsp; <a href="https://craggl.io"><img src="./BURIED_TEXT.png" alt="pixel-fonts" border="0"></a>
+
+ <br>
+<br>
 <img align='left' style='align-self: top; text-align: center' src="./waves.gif" data-canonical-src="./waves.GIF" width="30%" height="400%"/>&nbsp;&nbsp; 
 **ODYSSEY** 
 
