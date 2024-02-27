@@ -3,7 +3,9 @@
 <img align='left' style='align-self: top; text-align: center' src="./446733257015201.gif" data-canonical-src="./446733257015201.gif" width="30%" height="400%"/>&nbsp;&nbsp; 
 **BURIED** 
 
-&nbsp;&nbsp;  🌑 A dark text adventure set in a mine, built with a simple React front-end, fed by a json script
+&nbsp;&nbsp;  🌑 A dark text adventure set in a mine
+
+&nbsp;&nbsp;  🌑 Built with a modified version of the game engine used in ODYSSEY
   
 &nbsp;&nbsp;  🌑 <a href="https://github.com/crmcleod/cragglio">Github Repo</a> 
 
@@ -11,6 +13,8 @@
 
  <br>
 <br>
+<br>
+
 <img align='left' style='align-self: top; text-align: center' src="./waves.gif" data-canonical-src="./waves.GIF" width="30%" height="400%"/>&nbsp;&nbsp; 
 **ODYSSEY** 
 
@@ -20,7 +24,6 @@
   &nbsp;&nbsp; 10/01/2024
   
 &nbsp;&nbsp;  🌑 <a href="https://github.com/crmcleod/cragglio">Github Repo</a> 
-  
 
  &nbsp;&nbsp; <a href="https://craggl.io"><img src="https://fontmeme.com/permalink/240111/f45262581f21279817d10f126ed68d31.png" alt="pixel-fonts" border="0"></a>
 
