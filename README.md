@@ -9,7 +9,7 @@
   
 &nbsp;&nbsp;  🌑 <a href="https://github.com/crmcleod/cragglio">Github Repo</a> 
 
- &nbsp;&nbsp; <a href="https://craggl.io"><img src="./BURIED_TEXT.png" alt="pixel-fonts" border="0"></a>
+ &nbsp;&nbsp; <a href="https://craggl.io/?story=mine"><img src="./BURIED_TEXT.png" alt="pixel-fonts" border="0"></a>
 
  <br>
 <br>
