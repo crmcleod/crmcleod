@@ -1,6 +1,6 @@
 <h1>Current</h1>
 
-<img align='left' style='align-self: top; text-align: center' src="./trailer.gif" data-canonical-src="./trailerv5.gif" width="30%" height="400%"/>&nbsp;&nbsp; 
+<img align='left' style='align-self: top; text-align: center' src="./trailerv5.gif" data-canonical-src="./trailerv5.gif" width="30%" height="400%"/>&nbsp;&nbsp; 
 **BURIED** 
 
 &nbsp;&nbsp;  🌑 WITCH - a short point and click adventure. Help the witch to make her final escape...
