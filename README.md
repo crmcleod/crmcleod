@@ -1,13 +1,13 @@
 <h1>Current</h1>
 
 <img align='left' style='align-self: top; text-align: center' src="./trailerv5.gif" data-canonical-src="./trailerv5.gif" width="30%" height="400%"/>&nbsp;&nbsp; 
-**BURIED** 
+**WITCH** 
 
 &nbsp;&nbsp;  🌑 WITCH - a short point and click adventure. Help the witch to make her final escape...
 
 &nbsp;&nbsp;  🌑 Built in godot with a from-scratch game engine.
 
- &nbsp;&nbsp; <a href="https://rockredugly.itch.io/witch"><img src="./BURIED_TEXT.png" alt="pixel-fonts" border="0"></a>
+ &nbsp;&nbsp; 🌑 <a href="https://rockredugly.itch.io/witch">PLAY NOW ON ITCH</a>
 
  <br>
 <br>
